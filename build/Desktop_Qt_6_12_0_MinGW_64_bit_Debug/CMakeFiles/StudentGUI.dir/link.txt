@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\StudentGUI.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\StudentGUI.dir/objects.a @CMakeFiles\StudentGUI.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\StudentGUI.dir/objects.a -Wl,--no-whole-archive -o StudentGUI.exe -Wl,--out-implib,libStudentGUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StudentGUI.dir\linkLibs.rsp
